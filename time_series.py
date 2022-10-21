@@ -1166,18 +1166,4 @@ clf.fit(X_train_ts, y_train_ts)
 y_pred = clf.predict(X_test_ts)
 
 print(classification_report(y_test_ts, y_pred))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-lia-trapanese/Data-Mining-2Data-Mining-2/Giulio at main · lia-trapanese/Data-Mining-2Data-Mining-2/copia_di_time_series.py at main · lia-trapanese/Data-Mining-2
+
